@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+PRODID:-//SPLASH N1 Theorique//FR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Programme théorique N1 (SPLASH 2025-2026)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:4e61b9c1-2809-4a60-b0d3-4ff2279e7c20@splash-n1
+DTSTAMP:20251002T230852Z
+DTSTART;TZID=Europe/Paris:20251008T194500
+DTEND;TZID=Europe/Paris:20251008T214500
+SUMMARY:N1 1/6 — Ce qu'il faut avant de plonger
+LOCATION:Piscine d'Herblay — Les Grands Bains du Parisis\, 1 Rue François Truffaut\, 95220 Herblay-sur-Seine
+DESCRIPTION:Réglementation\, prérogatives du plongeur\, documents nécessaires\, matériel obligatoire en plongée.\nNotion d'accident : chute de bouteille\, problèmes de joint\, estimation du lestage\, entretien matériel.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 1/6 — Ce qu'il faut avant de plonger
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 1/6 — Ce qu'il faut avant de plonger
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c139e9cd-ddc0-42e0-972c-bc946348a5d9@splash-n1
+DTSTAMP:20251002T230852Z
+DTSTART;TZID=Europe/Paris:20251105T194500
+DTEND;TZID=Europe/Paris:20251105T214500
+SUMMARY:N1 2/6 — On se met à l'eau et on descend
+LOCATION:Piscine d'Herblay — Les Grands Bains du Parisis\, 1 Rue François Truffaut\, 95220 Herblay-sur-Seine
+DESCRIPTION:Notions de physique (flottabilité\, variation de pression et de volume\, vérification du lestage).\nNotion d'accidents : barotraumatismes (principes et prévention)\, causes et prévention de l'essoufflement.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 2/6 — On se met à l'eau et on descend
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 2/6 — On se met à l'eau et on descend
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e31d1c25-2e35-46ae-bf2e-5926b7ff0a76@splash-n1
+DTSTAMP:20251002T230852Z
+DTSTART;TZID=Europe/Paris:20251119T194500
+DTEND;TZID=Europe/Paris:20251119T214500
+SUMMARY:N1 3/6 — Pendant la plongée
+LOCATION:Piscine d'Herblay — Les Grands Bains du Parisis\, 1 Rue François Truffaut\, 95220 Herblay-sur-Seine
+DESCRIPTION:Lestage\, palmage\, comportement en palanquée\, signes en plongée\, notion de consommation et flottabilité.\nCe qu'on voit : initiation à la faune et la flore sous-marine.\nNotion d'accident : procédures de désaturation (courbe de sécurité\, moyens de décompression)\, plaquage de masque\, respecter les consignes du Guide de Palanquée\, essoufflement.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 3/6 — Pendant la plongée
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 3/6 — Pendant la plongée
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b07039ae-a94b-4c07-a1bd-c68f4e069924@splash-n1
+DTSTAMP:20251002T230852Z
+DTSTART;TZID=Europe/Paris:20251203T194500
+DTEND;TZID=Europe/Paris:20251203T214500
+SUMMARY:N1 4/6 — On remonte
+LOCATION:Piscine d'Herblay — Les Grands Bains du Parisis\, 1 Rue François Truffaut\, 95220 Herblay-sur-Seine
+DESCRIPTION:Notion d'accident : surpression pulmonaire et règles d’approche de la surface.\nDésaturation : courbe de sécurité\, tables de plongée (utilité)\, ordinateur : lecture simple et usage basique.\nRègle de perte de palanquée. Procédures de remontée\, y compris la remontée isolée.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 4/6 — On remonte
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 4/6 — On remonte
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3d88d8-c85b-4286-b371-58254e93b86a@splash-n1
+DTSTAMP:20251002T230852Z
+DTSTART;TZID=Europe/Paris:20251217T194500
+DTEND;TZID=Europe/Paris:20251217T214500
+SUMMARY:N1 5/6 — Après la plongée
+LOCATION:Piscine d'Herblay — Les Grands Bains du Parisis\, 1 Rue François Truffaut\, 95220 Herblay-sur-Seine
+DESCRIPTION:Débriefing. Respect de l’environnement et impact du plongeur sur le milieu.\nNotion d'accident : surveillance des coéquipiers\, symptômes de l'accident de décompression.\nEntretien de base du matériel de plongée : rinçage et stockage.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 5/6 — Après la plongée
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 5/6 — Après la plongée
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa28a80-e829-4143-aab1-fddd3e182773@splash-n1
+DTSTAMP:20251002T230852Z
+DTSTART;TZID=Europe/Paris:20260107T194500
+DTEND;TZID=Europe/Paris:20260107T214500
+SUMMARY:N1 6/6 — Révision à la carte N1
+LOCATION:Piscine d'Herblay — Les Grands Bains du Parisis\, 1 Rue François Truffaut\, 95220 Herblay-sur-Seine
+DESCRIPTION:
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 6/6 — Révision à la carte N1
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:N1 6/6 — Révision à la carte N1
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
